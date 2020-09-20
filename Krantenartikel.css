@@ -1,0 +1,42 @@
+article{
+
+font-family: Verdana, Geneva, Arial, Melvetica, sans-serif;  
+font-size: 125%;
+
+
+}
+
+.i1,.i2,.i3 {
+border:2px black solid;
+
+
+}
+.i1 {
+	margin-top: 5px;
+	margin-right: 20px;
+	margin-left :10px;
+	margin-bottom:30px;
+	height: 300px;
+	width:350px;
+}
+
+.i2{
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left :20px;
+	margin-bottom:10px;
+	height: 250px;
+	width: 350px;
+}
+
+.i3{
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left :10px;
+	margin-bottom:10px;
+}
+body{
+background-color:  	#b2eaed
+
+
+}
